@@ -9,7 +9,7 @@
 
 Read me, at length.
 
-read.me.at is the long-form content home of the `*.me.at` family: blog posts, digital-garden notes, project write-ups and life updates by Trevor McDougald, a full-stack software engineer working in React, Next.js and modern web technologies. It brings the writing together in one place with search, comments, a newsletter and RSS.
+read.me.at is the long-form content home of the `*.me.at` family, where I publish blog posts, digital-garden notes, project write-ups and life updates as a full-stack software engineer working in React, Next.js and modern web technologies. It brings the writing together in one place with search, comments, a newsletter and RSS.
 
 **Live:** [read.me.at](https://read.me.at)
 
@@ -49,7 +49,7 @@ read.me.at is the long-form content home of the `*.me.at` family: blog posts, di
 
 ## Part of the me.at family
 
-read.me.at is one of the [`*.me.at`](https://me.at) apps by Trevor McDougald. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
+read.me.at is one of my [`*.me.at`](https://me.at) apps. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
 
 ## License
 
