@@ -2,7 +2,7 @@
   "domain": "read.me.at",
   "network": "me.at",
   "generator": "@repo/app-shell/repo-fleet",
-  "contentHash": "1a0ec7674cad9c734770eee76319f5d3253651dea41d41736edf0236bf9cd070",
+  "contentHash": "f872f884f720235bd2eedceb4f126d3d0e5f8f6d2f3f3732d343d79b85d3fb4d",
   "lastSyncedAt": "2026-10-20",
   "paths": [
     ".github/CODEOWNERS",
